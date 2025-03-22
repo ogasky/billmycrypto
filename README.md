@@ -1,2 +1,2 @@
 # billmycrypto
-convenient platform for fiat currency bills payment with cryptocurrencies...
+BillMyCrypto is a decentralized payment platform that enables users to seamlessly pay their fiat bills using cryptocurrency, specifically USDC on Polygon. By integrating blockchain technology with real-world financial services, BillMyCrypto simplifies crypto-to-fiat transactions, making digital assets more practical for everyday expenses. The platform connects users with fiat settlement providers, ensuring smooth and efficient bill payments while maintaining transparency, security, and low transaction costs.
